@@ -7,7 +7,8 @@
 # transformer
 
 - attention
-$$ softmax(\frac{K \times Q^T}{\sqrt{d_{head}}})\times V $$
+
+$$softmax(\frac{K \times Q^T}{\sqrt{d_{head}}})\times V$$
 
 - architecture
 ```mermaid
