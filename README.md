@@ -1,6 +1,7 @@
 The is the result of my learning results of Karpathy's from zero to hero courses.
 
-1. micrograd [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/autograd.ipynb)
+1. micrograd [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/micrograd.ipynb)
+
 
 2. makemore optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/makemore_optimization.ipynb")
 
