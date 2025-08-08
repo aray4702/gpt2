@@ -1,3 +1,7 @@
+The is the result of my learning results of Karpathy's from zero to hero courses.
+
+
+
 # gpt2
 ** plan **
 1. write a doc to explain gpt2 and my training process
