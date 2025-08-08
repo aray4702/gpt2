@@ -12,11 +12,6 @@ The is the result of my learning results of Karpathy's from zero to hero courses
 
 6. reproduce gpt-2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/reproduce_gpt2.ipynb)
 
-7. td learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/td.ipynb)
-
-8. mcts [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/mcts.ipynb)
-
-
 # next step
 1. write a doc to explain gpt2 and the training process
 2. describe how it is evaluated
