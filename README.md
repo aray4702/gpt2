@@ -17,15 +17,12 @@ The is the result of my learning results of Karpathy's from zero to hero courses
 8. mcts [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/mcts.ipynb)
 
 
-** next step
-# gpt2
-** plan **
-1. write a doc to explain gpt2 and my training process
+# next step
+1. write a doc to explain gpt2 and the training process
 2. describe how it is evaluated
 3. compare it with OpenAI's gpt2, gpt3, and gpt4
 
-# transformer
-
+** transformer **
 - attention
 
 $$softmax(\frac{K \times Q^T}{\sqrt{d_{head}}})\times V$$
