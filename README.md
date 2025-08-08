@@ -1,7 +1,23 @@
 The is the result of my learning results of Karpathy's from zero to hero courses.
 
+1. micrograd [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/autograd.ipynb)
+
+2. makemore optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/makemore optimization.ipynb")
+
+3. makemore wavenet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/makemore wavenet.ipynb")
+
+4. gpt [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/gpt.ipynb")
+
+5. tokenizer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/makemore/tokenizer.ipynb")
+
+6. reproduce gpt-2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/reproduce-gpt2.ipynb")
+
+7. td learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/td.ipynb")
+
+8. mcts [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aray4702/transformer/blob/main/notebooks/mcts.ipynb")
 
 
+** next step
 # gpt2
 ** plan **
 1. write a doc to explain gpt2 and my training process
